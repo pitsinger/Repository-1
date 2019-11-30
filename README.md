@@ -1,2 +1,3 @@
 # Repository-1
-My Initial Repository 
+Patrick's Initial Repository
+November 30, 2019
